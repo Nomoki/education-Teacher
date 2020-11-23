@@ -429,6 +429,21 @@ img{
   background-color:#00000033;
   scroll-snap-align: end;
 }
+.footerwho{
+  position:absolute;
+  bottom: 0%;
+  width: 100vw;
+  height: 5vw;
+  background-color:#00000033;
+  scroll-snap-align: end;
+}
+.innerfooterwho{
+  position: absolute;
+  top: 1vw;
+  left: 60vw;
+  text-indent: 5vw;
+  font-size:0.7vw;
+}
 .innerfooter1{
   position: absolute;
   top: 1vw;
