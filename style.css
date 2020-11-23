@@ -253,6 +253,7 @@ img{
   right: 2%;
   cursor: pointer;
   transition: 0.5s;
+  line-height: 3vw;
 }
 .prighttext:hover{
   transform: scale(1.1,1.1);
