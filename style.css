@@ -433,7 +433,8 @@ img{
   position: absolute;
   top: 1vw;
   left: 70vw;
-  text-indent: 6vw;
+  text-indent: 5vw;
+  font-size:0.7vw;
 }
 .innerfooter2{
   position: absolute;
