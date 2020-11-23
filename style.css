@@ -472,6 +472,16 @@ img{
   text-indent: 6vw;
   font-size:0.7vw;
 }
+.arrow1{
+  position: absolute;
+  top: 77%;
+  left: 12vw;
+}
+.arrow2{
+  position: absolute;
+  top: 91%;
+  left: 12vw;
+}
 
 
 
