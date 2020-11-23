@@ -230,8 +230,8 @@ img{
 }
 .close {
   position: absolute;
-  right: 32px;
-  top: 32px;
+  right: 5%;
+  top: 32%;
   width: 32px;
   height: 32px;
   opacity: 1;
@@ -240,22 +240,6 @@ img{
 .close:hover {
   opacity: 0.3;
 }
-.close:before, .close:after {
-  background-color:white;
-  position: absolute;
-  left: 15px;
-  content: ' ';
-  height: 33px;
-  width: 3px;
-  
-}
-.close:before {
-  transform: rotate(45deg);
-}
-.close:after {
-  transform: rotate(-45deg);
-}
-
 .hide{
   display: none;
 }
