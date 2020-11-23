@@ -268,7 +268,7 @@ img{
 .btnchance{
   width: 15vw;
   position: absolute;
-  top: 29vw;
+  top: 28.5vw;
   right: 30%;
   transition: 0.5s;
   cursor: pointer;
@@ -301,7 +301,7 @@ img{
 .btnthnk{
   width: 15vw;
   position: absolute;
-  top: 38vw;
+  top: 38.5vw;
   right: 30%;
   transition: 0.5s;
   cursor: pointer;
