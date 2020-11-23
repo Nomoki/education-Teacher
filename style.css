@@ -496,6 +496,13 @@ img{
   top: 63%;
   left: 210vw;
 }
+.arrow5{
+  width: 5vw;
+  position: absolute;
+  top: 75%;
+  left: 308vw;
+}
+
 .redcrossar{
   width: 4vw;
   position: absolute;
@@ -507,6 +514,14 @@ img{
   position: absolute;
   top: 65%;
   left: 265vw;
+}
+.line{
+  width: 0.2vw;
+  height: 20%;
+  position: absolute;
+  top: 82%;
+  left: 342vw;
+  opacity: 0.5;
 }
 
 
