@@ -473,21 +473,25 @@ img{
   font-size:0.7vw;
 }
 .arrow1{
+  width: 5vw;
   position: absolute;
   top: 77%;
   left: 12vw;
 }
 .arrow2{
+  width: 5vw;
   position: absolute;
   top: 91%;
   left: 12vw;
 }
 .arrow3{
+  width: 5vw;
   position: absolute;
   top: 83%;
   left: 140vw;
 }
 .arrow4{
+  width: 5vw;
   position: absolute;
   top: 63%;
   left: 210vw;
@@ -497,7 +501,12 @@ img{
   position: absolute;
   top: 28%;
   left: 169vw;
-  
+}
+.manyX{
+  width: 4vw;
+  position: absolute;
+  top: 65%;
+  left: 265vw;
 }
 
 
