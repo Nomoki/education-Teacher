@@ -487,6 +487,11 @@ img{
   top: 83%;
   left: 140vw;
 }
+.arrow4{
+  position: absolute;
+  top: 63%;
+  left: 210vw;
+}
 .redcrossar{
   width: 4vw;
   position: absolute;
