@@ -130,3 +130,18 @@ content{
   right: 13%;
   font-size: 1vw;
 }
+.footerwho{
+  position:absolute;
+  bottom: -100%;
+  width: 98vw;
+  height: 15vw;
+  background-color:#00000033;
+  scroll-snap-align: end;
+}
+.innerfooterwho{
+  position: absolute;
+  top: 1vw;
+  left: 75vw;
+  text-indent: 5vw;
+  font-size:0.7vw;
+}
