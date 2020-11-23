@@ -31,6 +31,13 @@ body{
   z-index: 1;
   
 }
+.bg-dark{
+    background-color: black !important;
+  }
+  
+  .bg-transparent{
+      background-color: transparent;
+  }
 p{
     color: white;
     font-size: 1vw;
@@ -118,7 +125,7 @@ content{
 .red1{
     color: #DB4424;
     position: absolute;
-    top: 65%;
+    top: 60%;
     left: 60%;
     line-height: 3vw;
 }
@@ -143,6 +150,26 @@ content{
     text-indent: 5vw;
     font-size:0.7vw;
   }
+  .arrow{
+      width: 5%;
+      position: absolute;
+      top: 41%;
+      right: 35%;
+  }
+  .arrow1{
+    width: 5%;
+    position: absolute;
+    top: 36%;
+    left: 10%;
+}
+.arrow2{
+    width: 5%;
+    position: absolute;
+    top: 40%;
+    left: 60%;
+}
+
+  
 
 
 

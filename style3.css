@@ -28,6 +28,13 @@ body{
   z-index: 1;
   
 }
+.bg-dark{
+  background-color: black !important;
+}
+
+.bg-transparent{
+    background-color: transparent;
+}
 p{
     color: white;
     font-size: 1vw;
