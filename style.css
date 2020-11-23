@@ -422,3 +422,38 @@ img{
   width: 30%;
   cursor: pointer;
 }
+.footer{
+  position:absolute;
+  bottom: -50%;
+  width: 400vw;
+  height: 15vw;
+  background-color:#00000033;
+}
+.innerfooter1{
+  position: absolute;
+  top: 1vw;
+  left: 70vw;
+  text-indent: 6vw;
+}
+.innerfooter2{
+  position: absolute;
+  top: 1vw;
+  left: 170vw;
+  text-indent: 6vw;
+}
+.innerfooter3{
+  position: absolute;
+  top: 1vw;
+  left: 270vw;
+  text-indent: 6vw;
+}
+.innerfooter4{
+  position: absolute;
+  top: 1vw;
+  left: 370vw;
+  text-indent: 6vw;
+}
+
+
+
+
