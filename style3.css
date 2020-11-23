@@ -121,13 +121,13 @@ content{
 }
 .subhead5{
   position: absolute;
-  top:36%;
+  top:38%;
   right: 14%;
   font-size: 1vw;
 }
 .subhead6{
   position: absolute;
-  top:141%;
+  top:142%;
   right: 10%;
   font-size: 1vw;
 }
@@ -152,3 +152,48 @@ content{
   text-indent: 5vw;
   font-size:0.7vw;
 }
+.arrow1{
+  width: 5%;
+  position: absolute;
+  top: 35%;
+  left: 15%;
+}
+.arrow2{
+  width: 5%;
+  position: absolute;
+  top: 35%;
+  left: 63%;
+}
+.arrow3{
+  width: 5%;
+  position: absolute;
+  top: 68%;
+  left: 7%;
+}
+.arrow4{
+  width: 5%;
+  position: absolute;
+  top: 119%;
+  left: 10%;
+}
+.arrow5{
+  width: 5%;
+  position: absolute;
+  top: 139.5%;
+  left: 58%;
+}
+.line1{
+  height: 20%;
+  position: absolute;
+  top: 72%;
+  left: 34%;
+  
+}
+.line2{
+  height: 20%;
+  position: absolute;
+  top: 72%;
+  left: 62%;
+  
+}
+
