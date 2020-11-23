@@ -327,7 +327,7 @@ img{
 .btnteacher1{
   cursor: pointer;
   position: absolute;
-  left: 43%;
+  left: 42.5%;
   top: 20%;
   width: 20vw;
   transition: 0.5s;
@@ -481,6 +481,18 @@ img{
   position: absolute;
   top: 91%;
   left: 12vw;
+}
+.arrow3{
+  position: absolute;
+  top: 83%;
+  left: 140vw;
+}
+.redcrossar{
+  width: 4vw;
+  position: absolute;
+  top: 28%;
+  left: 169vw;
+  
 }
 
 
