@@ -86,7 +86,10 @@ content{
     top: 10%;
     right: 5%;
     cursor: pointer;
-
+    transition: 0.5s;
+}
+.btn1:hover{
+    transform: scale(1.1,1.1);
 }
 .btn2{
     width: 30vw;
@@ -94,6 +97,10 @@ content{
     top: 10%;
     left: 1%;
     cursor: pointer;
+    transition: 0.5s;
+}
+.btn2:hover{
+    transform: scale(1.1,1.1);
 }
 
 
