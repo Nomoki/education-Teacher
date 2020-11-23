@@ -57,7 +57,6 @@ img{
   padding: 1rem;
   text-indent: 2rem;
   z-index: 1;
-  scroll-snap-align: end;
   
 }
 .bg-dark{
@@ -424,10 +423,11 @@ img{
 }
 .footer{
   position:absolute;
-  bottom: -50%;
+  bottom: -55%;
   width: 400vw;
   height: 15vw;
   background-color:#00000033;
+  scroll-snap-align: end;
 }
 .innerfooter1{
   position: absolute;
