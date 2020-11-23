@@ -87,25 +87,25 @@ img{
 .thome{
   font-size: 15vw;
   position: relative;
-  top: 5%;
+  top: 0%;
   left: 10%;
 }
 .thome2{
   font-size: 15vw;
   position: relative;
-  top: -5%;
+  top: -10%;
   left: 10%;
 }
 .thead2{
   font-size: 15vw;
   line-height: 12vw;
   position: relative;
-  top: 12vw;
+  top: 8vw;
   left: 40%;
 }
 .ptextslice2{
   position: relative;
-  top: 13vw;
+  top: 8vw;
   left: 40%;
 }
 .tehead3{
@@ -119,7 +119,7 @@ img{
 }
 .ptextslice3{
   position: relative;
-  top: 15vw;
+  top: 13vw;
   left: 10%;
 }
 .ptextslice4{
@@ -161,19 +161,19 @@ img{
 
 .ptext1{
     position: absolute;
-    top: 32vw;
+    top: 30vw;
     left: 3%;
     
 }
 .ptext2{
     position: absolute;
-    top: 37vw;
+    top: 35vw;
     left: 3%;
 }
 .ptext3{
   color: #7DADA4;
   position: absolute;
-    top: 42vw;
+    top: 40vw;
     left: 3%;
 }
 .flowerhome{
@@ -261,7 +261,7 @@ img{
 .btnknow{
   width: 15vw;
   position: absolute;
-  top: 25vw;
+  top: 22vw;
   right: 30%;
   transition: 0.5s;
   cursor: pointer;
@@ -272,7 +272,7 @@ img{
 .btnchance{
   width: 15vw;
   position: absolute;
-  top: 28.5vw;
+  top: 25.5vw;
   right: 30%;
   transition: 0.5s;
   cursor: pointer;
@@ -283,7 +283,7 @@ img{
 .btnex{
   width: 15vw;
   position: absolute;
-  top: 32vw;
+  top: 29vw;
   right: 30%;
   transition: 0.5s;
   cursor: pointer;
@@ -294,7 +294,7 @@ img{
 .btnlife{
   width: 15vw;
   position: absolute;
-  top: 35vw;
+  top: 32vw;
   right: 30%;
   transition: 0.5s;
   cursor: pointer;
@@ -305,7 +305,7 @@ img{
 .btnthnk{
   width: 15vw;
   position: absolute;
-  top: 38.5vw;
+  top: 35.5vw;
   right: 30%;
   transition: 0.5s;
   cursor: pointer;
@@ -316,7 +316,7 @@ img{
 .btnforgive{
   width: 15vw;
   position: absolute;
-  top: 42vw;
+  top: 39vw;
   right: 30%;
   transition: 0.5s;
   cursor: pointer;
@@ -329,7 +329,7 @@ img{
   cursor: pointer;
   position: absolute;
   left: 43%;
-  top: 28%;
+  top: 20%;
   width: 20vw;
   transition: 0.5s;
 }
@@ -340,7 +340,7 @@ img{
   cursor: pointer;
   position: absolute;
   left: 43%;
-  top: 43%;
+  top: 33%;
   width: 20vw;
   transition: 0.5s;
 }
