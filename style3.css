@@ -196,4 +196,9 @@ content{
   left: 62%;
   
 }
+.bgpage1{
+  width: 100vw;
+  position: absolute;
+  top: 100%;
+}
 
