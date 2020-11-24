@@ -358,6 +358,10 @@ img{
   left: 10vw;
   width: 80%;
   cursor: pointer;
+  transition: 0.5s;
+}
+.backbtn1:hover{
+  transform: scale(1.1,1.1);
 }
 .rigttextteach{
   position: relative;
@@ -420,6 +424,10 @@ img{
   left: 0%;
   width: 30%;
   cursor: pointer;
+  transition: 0.5s;
+}
+.backbtn2:hover{
+  transform: scale(1.1,1.1);
 }
 .footer{
   position:absolute;
